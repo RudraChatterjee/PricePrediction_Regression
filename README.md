@@ -55,9 +55,7 @@ normalized_used_price: Normalized price of the used/refurbished device in euros
 
 - 73% of all brands in the dataset offer high quality selfie cameras (greater than 8 MP). The startup can focus on acquiring used devices from those brands and also develop targeted ads for those brands towards demographics that prefer phones with better camera resolutions
 
-- Income/occupation/location information may gauge better understanding the affordability preferences of individuals.
-
-- Higher income individuals may be more willing to buy more expenesive smartphones and/or replace existing smartphones to buy a new one compared to lower income individuals
+- Income/occupation/location information may gauge better understanding the affordability preferences of individuals. Higher income individuals may be more willing to buy more expenesive smartphones and/or replace existing smartphones to buy a new one compared to lower income individuals
 
 - Understanding these behaviors can help the company create better targeted ads for different customer segments accordingly which can lead to higher sales and greater revenue
 
