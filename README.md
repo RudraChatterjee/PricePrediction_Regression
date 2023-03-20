@@ -36,10 +36,6 @@ The data contains the different attributes of used/refurbished phones and tablet
 - normalized_new_price: Normalized price of a new device of the same model in euros
 - normalized_used_price: Normalized price of the used/refurbished device in euros
 
-
-
-
-
 ## Actionable Insights and Recommendations
 - Final linear regression model can explain 84% of the data variability and can be used to predict the normalized used price for smartphones/tablets within 4.6% of their actual price based on test data. This indicates that the model is broadly well suited for prediction as well as inference purposes.
 
