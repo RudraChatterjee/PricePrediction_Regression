@@ -44,12 +44,12 @@ normalized_used_price: Normalized price of the used/refurbished device in euros
 - Final linear regression model can explain 84% of the data variability and can be used to predict the normalized used price for smartphones/tablets within 4.6% of their actual price based on test data. This indicates that the model is broadly well suited for prediction as well as inference purposes.
 
 - Broadly, the company can look to increase in acquiring used/refurbished devices in their inventory with certain attributes
-* higher new price
-* increased RAM size
-* higher main and selfie camera resolutions
-* higher weight
-* availability of 4G
-* newer release dates
+    * higher new price
+    * increased RAM size
+    * higher main and selfie camera resolutions
+    * higher weight
+    * availability of 4G
+    * newer release dates
 
 - The company can also try to obtain user demographic data such as age, gender, annual income, occupation, geographic location to have a better sense of demand understanding and customer segmentation. For example, there may be a preference for phones with better camera resolutions or 4G availability based on gender or in younger individuals.
 
