@@ -1,3 +1,8 @@
-# UsedCellPhone_PricePrediction
+# UsedDevices_PricePrediction_LinearRegression
 
-Explored the dataset of a company that specializes in the reselling of used and refurbished devices. The objective of this project was to determine the future price of used phones and identify the factors that significantly influence them. A linear regression model was used to determine the projected cost of used phones. One-Hot encoding was used for categorical values. Log transformation was used to correct distribution plots. Outliers were converted to 1.5x the third and first quartiles according to the side of whiskers. A linear regression model was made with statsmodels.api and dealt with multicollinearity using variance inflation factors(VIF). Deleted unnecessary variables determined through the p-value. It was tested for linearity, independence, and normality—determined homoscedasticity through the Goldfeld Quandt test.
+Explored the dataset of a company that specializes in the reselling of used and refurbished devices. The objective of this project was to determine the future price of used phones and identify the factors that significantly influence them.
+
+EDA was carried out to answer some key business questions and draw out actionable insights. Missing values in the dataset were treated and feature engineering was performed on other variables. Outlier values in different variables were explored.
+
+A linear regression model was used to determine the projected cost of used devices. One-Hot encoding was utilized for categorical values.  A linear regression model was made with statsmodels.api. Multicollinearity in a number of predictor variables were treated using variance inflation factors (VIF). 
+Variables with  high p-values were explored and systematically removed. Final model was tested for linearity, independence, and normality—determined homoscedasticity through the Goldfeld Quandt test.
